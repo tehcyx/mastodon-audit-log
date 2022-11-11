@@ -37,4 +37,4 @@ jobs:
         d="$(date --rfc-3339=s)"
         git add --all
         git commit --allow-empty -m "Periodic update: $d"
-        git push origin master
+        git push origin main
