@@ -1,3 +1,6 @@
+109366492506331797,jbu@fosstodon.org
+109363286948923324,thoward37@macaw.social
+109362551827018542,jeefy@floss.social
 109348699759021553,jwalk@mastodon.social
 109345715039576160,evanbrown@mastodon.cloud
 109334830496917575,jukey@mastodon.social
