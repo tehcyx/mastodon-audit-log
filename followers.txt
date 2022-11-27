@@ -1,3 +1,5 @@
+109294166136609968,dims@hachyderm.io
+109309750055903001,micahhausler@hachyderm.io
 109309191361380654,hansamann@mastodon.social
 109377441989730347,adria@noc.social
 109332941180676390,choas@mastodon.social
