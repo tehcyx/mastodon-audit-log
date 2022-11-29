@@ -1,3 +1,6 @@
+109424743042129746,jwalk@hachyderm.io
+109424730503351648,gctaylor@hachyderm.io
+109351831270279159,westquake@botsin.space
 109308475574675057,TheConversationUS@newsie.social
 109286350600664617,paris@hachyderm.io
 108211303414342393,nova@hachyderm.io
