@@ -1,3 +1,5 @@
+109536609711311759,msn@macaw.social
+109536540715915128,klaus@home.social
 109310249479541583,aka_pugs@mastodon.social
 109323864754716859,alolita@hachyderm.io
 109434523737866369,tbeijen@hachyderm.io
