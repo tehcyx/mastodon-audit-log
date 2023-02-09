@@ -1,3 +1,5 @@
+109529917893254299,caeq@sfba.social
+109529918190916114,sfeq@sfba.social
 109303452311770229,munnerz@hachyderm.io
 109264397724072761,gergelyorosz@mastodon.online
 109728283309101487,BenTheElder@mastodon.social
