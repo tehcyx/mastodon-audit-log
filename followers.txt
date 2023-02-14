@@ -17,7 +17,6 @@
 109334830496917575,jukey@mastodon.social
 109335817965642521,lechnerc77@mastodon.social
 109294772875507391,streamofron@macaw.social
-109330948220467011,jay@macaw.social
 109299906204003769,davidjrusek@mastodon.social
 109309750056546852,davidjrusek@macaw.social
 109308812437093778,gkindel@social.coop
