@@ -1,3 +1,7 @@
+109287264551582739,taylorlorenz@mastodon.social
+109304233220797232,briankrebs@infosec.exchange
+109288079950786041,SwiftOnSecurity@infosec.exchange
+109378845937593169,shanselman
 109268490370464755,paris
 109721391061514448,heiseonline@social.heise.de
 109277339933780530,igb@mastodon.hccp.org
