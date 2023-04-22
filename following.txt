@@ -1,3 +1,8 @@
+109526410134029076,emilyfreeman
+109299078106372067,erd@gei.st
+109312769476392543,cloudnativeyoda@fosstodon.org
+109964795038272543,letsencrypt@infosec.exchange
+109343780291948032,tailscale
 110006087266392061,live@live.ianandjayspaceout.com
 110024139980496053,torvalds@social.kernel.org
 109536672783693306,hasheddan@types.pl
