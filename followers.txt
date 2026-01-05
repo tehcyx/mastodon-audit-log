@@ -1,5 +1,9 @@
+112592412055962716,dims@mastodon.social
+109526776049274894,vicnastea@mastodon.acm.org
+111830056059866916,hansamann@chaos.social
+111824564001609126,david@rawkode.academy
+110868511206017551,jukey@pixelfed.social
 109968105410868083,ZeGee@social.snorklr.com
-110188728418626916,Sam_3d
 109286344136693518,abrain@chaos.social
 110028793538830408,gkindel@macaw.social
 109246977243119038,jannis
@@ -11,7 +15,6 @@
 109971991050267792,klaus@home.social
 109375203580590407,adria@noc.social
 109300920681707627,evanbrown@mastodon.cloud
-109256050090465287,lechnerc77@mastodon.social
 109399901774297748,msn@macaw.social
 109305768645958560,jredmond@macaw.social
 109343609010832128,thoward37@macaw.social
