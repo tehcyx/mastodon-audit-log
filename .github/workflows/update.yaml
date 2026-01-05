@@ -15,11 +15,11 @@ jobs:
       MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v3
-    - name: Set up Go 1.19
-      uses: actions/setup-go@v3
+      uses: actions/checkout@v4
+    - name: Set up Go 1.25
+      uses: actions/setup-go@v5
       with:
-        go-version: 1.19
+        go-version: '1.25'
     - name: Fetch blocked accounts
       run: go run . -- blocks > ../blocked_accounts.txt
     - name: Fetch muted accounts
