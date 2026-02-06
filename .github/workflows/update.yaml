@@ -2,6 +2,9 @@ name: Collect mastodon data
 on:
   schedule:
     - cron: "50 21 * * *"
+  workflow_dispatch:
+permissions:
+  contents: write
 defaults:
   run:
     working-directory: ./tool
