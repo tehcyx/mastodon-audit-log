@@ -18,7 +18,7 @@ jobs:
       MASTODON_INSTANCE: ${{ secrets.MASTODON_INSTANCE }}
     steps:
     - name: Checkout repo
-      uses: actions/checkout@v6
+      uses: actions/checkout@v7
     - name: Set up Go 1.25
       uses: actions/setup-go@v6
       with:
