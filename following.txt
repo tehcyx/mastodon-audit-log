@@ -1,3 +1,5 @@
+116797103287097911,robpike@cosocial.ca
+109225295217530276,wongmjane@mastodon.social
 114629699561608705,fefe_interim@mastodon.social
 113690272851908451,oec@infosec.exchange
 109305540739320491,homeassistant@fosstodon.org
@@ -71,7 +73,6 @@
 108310955757126641,CCC@social.bau-ha.us
 109288129166708989,LachlanEvenson
 109286173245339766,bryanl
-109617820723553356,robpike
 109327810126575724,oxidecomputer
 109285973853232018,francesc
 108203029417865834,nova
@@ -100,7 +101,6 @@
 109287674666111875,rakyll@m.rakyll.org
 109286150986707143,jonasdowney@mastodon.social
 109305147865336715,Quinnypig@awscommunity.social
-109332620308694257,wongmjane@macaw.social
 109291969381960668,alvaroaleman@norden.social
 109260632718224317,bcantrill@mastodon.social
 109971991050267792,klaus@home.social
