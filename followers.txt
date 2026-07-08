@@ -33,7 +33,6 @@
 109270884994922689,aka_pugs@mastodon.social
 109291969381960668,alvaroaleman@norden.social
 109303738926804446,gkindel@social.coop
-109311983550156536,jeefy@floss.social
 109293612454421694,jbu@fosstodon.org
 109254795244236758,gctaylor@mas.to
 108246186623474405,jayholler@mstdn.social
