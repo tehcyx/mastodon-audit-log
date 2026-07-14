@@ -4,7 +4,7 @@ go 1.25
 
 toolchain go1.25.5
 
-require github.com/mattn/go-mastodon v0.0.11
+require github.com/mattn/go-mastodon v0.0.13
 
 require (
 	github.com/gorilla/websocket v1.5.3 // indirect
