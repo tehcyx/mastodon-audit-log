@@ -92,7 +92,6 @@
 109276094882827834,streamofron@macaw.social
 109305768645958560,jredmond@macaw.social
 109399901774297748,msn@macaw.social
-109300920681707627,evanbrown@mastodon.cloud
 109275889751881942,teich@mastodon.online
 109300405781231393,eshamow@macaw.social
 109259696535323557,bradfitz@inuh.net
